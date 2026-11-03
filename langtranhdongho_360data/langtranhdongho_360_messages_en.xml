@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<krpano>
+
+<!-- ************************ -->
+<!--         Messages         -->
+<!-- ************************ -->
+
+  <data name="en_project_title"><![CDATA[New Project]]></data>
+
+
+
+  <data name="en_pano62_title"><![CDATA[Tháp bút]]></data>
+  <data name="en_spotpolygon353_tooltip"><![CDATA[<span style="background: rgba(40,40,40,0.75); color: #FFFFFF; padding: 6px 14px; border-radius: 6px; font-weight: bold; font-size: 13px; font-family: Arial, sans-serif; display: inline-block; white-space: nowrap; box-shadow: 0 2px 5px rgba(0,0,0,0.3);">NHÀ NGHỆ NHÂN NGUYỄN HỮU QUẢ</span>]]></data>
+  <data name="en_spotpolygon396_tooltip"><![CDATA[<span style="background: rgba(40,40,40,0.75); color: #FFFFFF; padding: 6px 14px; border-radius: 6px; font-weight: bold; font-size: 13px; font-family: Arial, sans-serif; display: inline-block; white-space: nowrap; box-shadow: 0 2px 5px rgba(0,0,0,0.3);">NHÀ NGHỆ NHÂN NGUYỄN ĐĂNG CHẾ</span>]]></data>
+  <data name="en_spotpolygon398_tooltip"><![CDATA[<span style="background: rgba(40,40,40,0.75); color: #FFFFFF; padding: 6px 14px; border-radius: 6px; font-weight: bold; font-size: 13px; font-family: Arial, sans-serif; display: inline-block; white-space: nowrap; box-shadow: 0 2px 5px rgba(0,0,0,0.3);">NHÀ NGHỆ NHÂN NGUYỄN THỊ OANH</span>]]></data>
+  <data name="en_spotpolygon402_tooltip"><![CDATA[<span style="background: rgba(40,40,40,0.75); color: #FFFFFF; padding: 6px 14px; border-radius: 6px; font-weight: bold; font-size: 13px; font-family: Arial, sans-serif; display: inline-block; white-space: nowrap; box-shadow: 0 2px 5px rgba(0,0,0,0.3);">TRUNG TÂM BẢO TỒN TRANH DÂN GIAN ĐÔNG HỒ</span>]]></data>
+  <data name="en_spotpoint487_tooltip"><![CDATA[Thuyết minh]]></data>
+  <data name="en_spotpoint700_tooltip"><![CDATA[Hình ảnh]]></data>
+  <data name="en_spotpoint700websiteViewer|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://docs.google.com/presentation/d/e/2PACX-1vRCkQ2E_l_iVCHZ-jfKGkfaEpYvkBOD2rJFRFmk6qUHrGoSuNjeHFBc_BdaudO8es5e08jwwA4URIRF/pubembed?start=false&loop=false&delayms=3000]]></data>
+  <data name="en_spotpoint700websiteViewer|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+
+
+  <data name="en_pano37_title"><![CDATA[Nhà Nghệ nhân Nguyễn Hữu Quả]]></data>
+  <data name="en_spotpolygon405_tooltip"><![CDATA[<span style="background: rgba(40,40,40,0.75); color: #FFFFFF; padding: 6px 14px; border-radius: 6px; font-weight: bold; font-size: 13px; font-family: Arial, sans-serif; display: inline-block; white-space: nowrap; box-shadow: 0 2px 5px rgba(0,0,0,0.3);">KHÔNG GIAN LÀM VIỆC</span>]]></data>
+  <data name="en_spotpolygon406_tooltip"><![CDATA[<span style="background: rgba(40,40,40,0.75); color: #FFFFFF; padding: 6px 14px; border-radius: 6px; font-weight: bold; font-size: 13px; font-family: Arial, sans-serif; display: inline-block; white-space: nowrap; box-shadow: 0 2px 5px rgba(0,0,0,0.3);">THÁP BÚT</span>]]></data>
+
+
+  <data name="en_pano38_title"><![CDATA[Không gian làm việc]]></data>
+  <data name="en_spotpolygon408_tooltip"><![CDATA[<span style="background: rgba(40,40,40,0.75); color: #FFFFFF; padding: 6px 14px; border-radius: 6px; font-weight: bold; font-size: 13px; font-family: Arial, sans-serif; display: inline-block; white-space: nowrap; box-shadow: 0 2px 5px rgba(0,0,0,0.3);">QUAY VỀ</span>]]></data>
+  <data name="en_spotpoint621_tooltip"><![CDATA[Thuyết minh]]></data>
+  <data name="en_spotpoint628_tooltip"><![CDATA[Phỏng vấn Nghệ nhân Nguyễn Hữu Quả]]></data>
+  <data name="en_spotpoint701_tooltip"><![CDATA[Hình ảnh]]></data>
+  <data name="en_spotpoint701websiteViewer|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://docs.google.com/presentation/d/e/2PACX-1vSN5uVs7O7HgbnB8-8uJnF3GXpkCc41312RvwG1YG0hIviu5VkDwssZ3kWq3YGilMV0dPYp4H7IKk0X/pubembed?start=false&loop=false&delayms=3000]]></data>
+  <data name="en_spotpoint701websiteViewer|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+
+
+  <data name="en_pano44_title"><![CDATA[Không gian làm việc và trải nghiệm]]></data>
+  <data name="en_spotpolygon424_tooltip"><![CDATA[<span style="background: rgba(40,40,40,0.75); color: #FFFFFF; padding: 6px 14px; border-radius: 6px; font-weight: bold; font-size: 13px; font-family: Arial, sans-serif; display: inline-block; white-space: nowrap; box-shadow: 0 2px 5px rgba(0,0,0,0.3);">QUAY VỀ</span>]]></data>
+  <data name="en_spotpoint624_tooltip"><![CDATA[Thuyết minh]]></data>
+  <data name="en_spotpoint703_tooltip"><![CDATA[Hình ảnh]]></data>
+  <data name="en_spotpoint703websiteViewer|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://docs.google.com/presentation/d/e/2PACX-1vRIIejEaNtRBCbQRudPscN8NjDSBa9jvcGKGzwf_wFa97aBQCGQjD-eP5vryRkYCA7rOUd9kP6TDGRb/pubembed?start=false&loop=false&delayms=3000]]></data>
+  <data name="en_spotpoint703websiteViewer|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+
+
+  <data name="en_pano53_title"><![CDATA[Không gian thờ cúng và làm việc]]></data>
+  <data name="en_spotpolygon418_tooltip"><![CDATA[<span style="background: rgba(40,40,40,0.75); color: #FFFFFF; padding: 6px 14px; border-radius: 6px; font-weight: bold; font-size: 13px; font-family: Arial, sans-serif; display: inline-block; white-space: nowrap; box-shadow: 0 2px 5px rgba(0,0,0,0.3);">QUAY VỀ</span>]]></data>
+  <data name="en_spotpolygon421_tooltip"><![CDATA[<span style="background: rgba(40,40,40,0.75); color: #FFFFFF; padding: 6px 14px; border-radius: 6px; font-weight: bold; font-size: 13px; font-family: Arial, sans-serif; display: inline-block; white-space: nowrap; box-shadow: 0 2px 5px rgba(0,0,0,0.3);">KHÔNG GIAN TRƯNG BÀY</span>]]></data>
+  <data name="en_spotpoint622_tooltip"><![CDATA[Thuyết minh]]></data>
+  <data name="en_spotpoint702_tooltip"><![CDATA[Video nghệ thuật đồ nét]]></data>
+
+
+  <data name="en_pano56_title"><![CDATA[Không gian bảo tồn ]]></data>
+  <data name="en_spotpolygon428_tooltip"><![CDATA[<span style="background: rgba(40,40,40,0.75); color: #FFFFFF; padding: 6px 14px; border-radius: 6px; font-weight: bold; font-size: 13px; font-family: Arial, sans-serif; display: inline-block; white-space: nowrap; box-shadow: 0 2px 5px rgba(0,0,0,0.3);">QUAY VỀ</span>]]></data>
+  <data name="en_spotpoint625_tooltip"><![CDATA[Thuyết minh]]></data>
+  <data name="en_spotpoint704_tooltip"><![CDATA[Người trẻ đến với làng tranh]]></data>
+  <data name="en_spotpoint704websiteViewer|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://docs.google.com/presentation/d/e/2PACX-1vS5I8OGqlKpU0UuI4XZb8T8A9XC_jkoIHofcIAATIfK5JMIO5IVMSTnux1W0FZUrKHD9CF-rKMeR_6D/pubembed?start=false&loop=false&delayms=3000]]></data>
+  <data name="en_spotpoint704websiteViewer|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+  <data name="en_spotpoint705_tooltip"><![CDATA[Những bức tranh và thông tin nổi bật tại bảo tàng]]></data>
+  <data name="en_spotpoint705websiteViewer|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://docs.google.com/presentation/d/e/2PACX-1vSqdSR7ZAs4Qt2ImextK9Q664qqGAT2LzQp1SF-RZHc_lMoWM_yWKQ9ARFU8DT845oZPFCa-Bv72A5N/pubembed?start=false&loop=false&delayms=3000]]></data>
+  <data name="en_spotpoint705websiteViewer|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+  <data name="en_spotpoint708_tooltip"><![CDATA[infographic quy trình sản xuất tranh Đông Hồ]]></data>
+  <data name="en_spotpoint708PdfViewer|PdfViewer|displaypdfpdf_title"><![CDATA[]]></data>
+  <data name="en_spotpoint710_tooltip"><![CDATA[Trò chơi trải nghiệm]]></data>
+  <data name="en_spotpoint710websiteViewer|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://thaituan52.github.io/kchi]]></data>
+  <data name="en_spotpoint710websiteViewer|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+
+
+  <data name="en_pano59_title"><![CDATA[Nhà Nghệ nhân Nguyễn Đăng Chế]]></data>
+  <data name="en_spotpolygon410_tooltip"><![CDATA[<span style="background: rgba(40,40,40,0.75); color: #FFFFFF; padding: 6px 14px; border-radius: 6px; font-weight: bold; font-size: 13px; font-family: Arial, sans-serif; display: inline-block; white-space: nowrap; box-shadow: 0 2px 5px rgba(0,0,0,0.3);">KHÔNG GIAN THỜ CÚNG VÀ LÀM VIỆC</span>]]></data>
+  <data name="en_spotpolygon412_tooltip"><![CDATA[<span style="background: rgba(40,40,40,0.75); color: #FFFFFF; padding: 6px 14px; border-radius: 6px; font-weight: bold; font-size: 13px; font-family: Arial, sans-serif; display: inline-block; white-space: nowrap; box-shadow: 0 2px 5px rgba(0,0,0,0.3);">NHÀ NGHỆ NHÂN NGUYỄN HỮU QUẢ</span>]]></data>
+  <data name="en_spotpolygon413_tooltip"><![CDATA[<span style="background: rgba(40,40,40,0.75); color: #FFFFFF; padding: 6px 14px; border-radius: 6px; font-weight: bold; font-size: 13px; font-family: Arial, sans-serif; display: inline-block; white-space: nowrap; box-shadow: 0 2px 5px rgba(0,0,0,0.3);">THÁP BÚT</span>]]></data>
+
+
+  <data name="en_pano65_title"><![CDATA[Nhà Nghệ nhân Nguyễn Thị Oanh]]></data>
+  <data name="en_spotpolygon422_tooltip"><![CDATA[<span style="background: rgba(40,40,40,0.75); color: #FFFFFF; padding: 6px 14px; border-radius: 6px; font-weight: bold; font-size: 13px; font-family: Arial, sans-serif; display: inline-block; white-space: nowrap; box-shadow: 0 2px 5px rgba(0,0,0,0.3);">KHÔNG GIAN LÀM VIỆC VÀ TRẢI NGHIỆM</span>]]></data>
+  <data name="en_spotpolygon423_tooltip"><![CDATA[<span style="background: rgba(40,40,40,0.75); color: #FFFFFF; padding: 6px 14px; border-radius: 6px; font-weight: bold; font-size: 13px; font-family: Arial, sans-serif; display: inline-block; white-space: nowrap; box-shadow: 0 2px 5px rgba(0,0,0,0.3);">THÁP BÚT</span>]]></data>
+
+
+  <data name="en_pano68_title"><![CDATA[Trung tâm bảo tồn tranh Đông Hồ]]></data>
+  <data name="en_spotpolygon425_tooltip"><![CDATA[<span style="background: rgba(40,40,40,0.75); color: #FFFFFF; padding: 6px 14px; border-radius: 6px; font-weight: bold; font-size: 13px; font-family: Arial, sans-serif; display: inline-block; white-space: nowrap; box-shadow: 0 2px 5px rgba(0,0,0,0.3);">KHÔNG GIAN BẢO TỒN</span>]]></data>
+  <data name="en_spotpolygon426_tooltip"><![CDATA[<span style="background: rgba(40,40,40,0.75); color: #FFFFFF; padding: 6px 14px; border-radius: 6px; font-weight: bold; font-size: 13px; font-family: Arial, sans-serif; display: inline-block; white-space: nowrap; box-shadow: 0 2px 5px rgba(0,0,0,0.3);">NHÀ NGHỆ NHÂN NGUYỄN THỊ OANH</span>]]></data>
+  <data name="en_spotpolygon427_tooltip"><![CDATA[<span style="background: rgba(40,40,40,0.75); color: #FFFFFF; padding: 6px 14px; border-radius: 6px; font-weight: bold; font-size: 13px; font-family: Arial, sans-serif; display: inline-block; white-space: nowrap; box-shadow: 0 2px 5px rgba(0,0,0,0.3);">THÁP BÚT</span>]]></data>
+
+
+  <data name="en_pano46_title"><![CDATA[Không gian trưng bày]]></data>
+  <data name="en_spotpolygon420_tooltip"><![CDATA[<span style="background: rgba(40,40,40,0.75); color: #FFFFFF; padding: 6px 14px; border-radius: 6px; font-weight: bold; font-size: 13px; font-family: Arial, sans-serif; display: inline-block; white-space: nowrap; box-shadow: 0 2px 5px rgba(0,0,0,0.3);">QUAY VỀ</span>]]></data>
+  <data name="en_spotpoint623_tooltip"><![CDATA[Thuyết minh]]></data>
+  <data name="en_spotpoint706_tooltip"><![CDATA[infographic Nghệ nhân Nguyễn Đăng Chế]]></data>
+  <data name="en_spotpoint706PdfViewer|PdfViewer|displaypdfpdf_title"><![CDATA[]]></data>
+
+
+	<data name="en_spotmap690_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap691_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap692_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap693_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap694_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap695_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap696_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap697_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap698_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap699_tooltip"><![CDATA[]]></data>
+
+
+
+
+  <data name="en_togglebuttonfirsttooltip"><![CDATA[]]></data>
+  <data name="en_togglebuttonsecondtooltip"><![CDATA[]]></data>
+  <data name="en_websiteViewerfullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_websiteViewerclose_text"><![CDATA[Close]]></data>
+  <data name="en_PdfViewerfullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_PdfViewerclose_text"><![CDATA[Close]]></data>
+
+
+  <data name="en_vr_setup_hmd0"><![CDATA[SELECT YOUR HMD]]></data>
+  <data name="en_vr_setup_advanced"><![CDATA[ADVANCED SETTINGS]]></data>
+  <data name="en_vr_setup_title"><![CDATA[WEB VR SETTINGS]]></data>
+  <data name="en_vr_setup_dvn1"><![CDATA[Device:]]></data>
+  <data name="en_vr_setup_siz1"><![CDATA[Screen size:]]></data>
+  <data name="en_vr_setup_ipd1"><![CDATA[IPD:]]></data>
+  <data name="en_vr_setup_hmd1"><![CDATA[HMD:]]></data>
+  <data name="en_vr_setup_hmd3"><![CDATA[Customize]]></data>
+  <data name="en_vr_setup_cal"><![CDATA[Calibrate gyroscope]]></data>
+  <data name="en_vr_setup_sav"><![CDATA[SAVE]]></data>
+  <data name="en_vr_setup_rst"><![CDATA[RESET]]></data>
+  <data name="en_vr_setup_simple"><![CDATA[SIMPLE]]></data>
+  <data name="en_vr_setup_cls"><![CDATA[CLOSE]]></data>
+  <data name="en_vr_setup_m31"><![CDATA[HMD SETTINGS]]></data>
+  <data name="en_vr_setup_fov1"><![CDATA[FOV:]]></data>
+  <data name="en_vr_setup_dst1"><![CDATA[Distortion:]]></data>
+  <data name="en_vr_setup_d2tx"><![CDATA[Distortion 2:]]></data>
+  <data name="en_vr_setup_vig1"><![CDATA[Vignette:]]></data>
+  <data name="en_vr_setup_cac1"><![CDATA[Chromatic aberration:]]></data>
+  <data name="en_vr_setup_olp1"><![CDATA[Overlap:]]></data>
+  <data name="en_vr_setup_m35"><![CDATA[RETURN]]></data>
+  <data name="en_vr_setup_cb1"><![CDATA[GYROSCOPE]]></data>
+  <data name="en_vr_setup_cb2"><![CDATA[Place the device on a flat and[br]stable surface and tab CALIBRATE[br]to correct a gyroscope drifting.]]></data>
+  <data name="en_vr_setup_cb3"><![CDATA[CALIBRATE]]></data>
+  <data name="en_vr_setup_cb4"><![CDATA[RESET]]></data>
+  <data name="en_vr_setup_cb5"><![CDATA[RETURN]]></data>
+  <data name="en_vr_setup_cb6"><![CDATA[Calibrating...]]></data>
+  <data name="en_vr_setup_cb7"><![CDATA[Successful calibration]]></data>
+  <data name="en_vr_setup_cb8"><![CDATA[Calibration failed]]></data>
+  <data name="en_vr_setup_unavailable"><![CDATA[VR mode[br]is unavailable on your device]]></data>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</krpano>
